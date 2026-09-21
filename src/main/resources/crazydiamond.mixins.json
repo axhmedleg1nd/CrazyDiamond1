@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.crazydiamond.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "PlayerSkinMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mango": {
+    "sounds": ["crazydiamond:mango"],
+    "subtitle": "subtitles.crazydiamond.mango"
+  },
+  "dvizhukha_theme": {
+    "sounds": [
+      { "name": "crazydiamond:dvizhukha_theme", "stream": true }
+    ],
+    "subtitle": "subtitles.crazydiamond.dvizhukha_theme"
+  }
+}

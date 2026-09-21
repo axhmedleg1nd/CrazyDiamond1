@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "DDD",
+    "NAN",
+    "GGG"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond_block" },
+    "N": { "item": "minecraft:netherite_block" },
+    "A": { "item": "crazydiamond:stand_arrow" },
+    "G": { "item": "minecraft:gold_block" }
+  },
+  "result": { "item": "crazydiamond:dvizhukha_arrow", "count": 1 }
+}

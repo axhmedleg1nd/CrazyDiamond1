@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "crazydiamond",
+  "version": "${version}",
+  "name": "Crazy Diamond Stand",
+  "description": "A stand (Crazy Diamond) with 7 abilities, a Stand Arrow, and the Dvizhukha Arrow with 4 more abilities.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.crazydiamond.CrazyDiamondMod"
+    ],
+    "client": [
+      "com.example.crazydiamond.client.CrazyDiamondClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "mixins": [
+    "crazydiamond.mixins.json"
+  ]
+}
